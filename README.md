@@ -1,3 +1,3 @@
-This is a Api for user Login and Signup.
-This Api is Also for Product creation updation and deletion and fetching all product.
-This project using Node.js and Express.js.
+# Product and User Management API
+
+This API provides endpoints for managing products and user authentication, including functionalities for creating, reading, updating, and deleting products, as well as user signup and login.
